@@ -9,3 +9,4 @@ In order to run the script successfully you need to install python 2.7+ along wi
 Command to Run the script
 #python socket-mon.py
 
+To check the output open output_socket_monitoring.csv which will be generated after running socket-mon.py.The file will be located in the current directory
